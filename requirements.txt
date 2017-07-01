@@ -1,0 +1,8 @@
+six
+ipywidgets
+-e git+https://github.com/ryanpdwyer/FreqDemod.git@e5071108cb3d721886a477f129badb634aa3af9d#egg=FreqDemod
+-e git+https://github.com/marohngroup/kpfm.git@797749654a0da98777e834301109afe875eac455#egg=kpfm
+-e git+https://github.com/jakevdp/nufftpy.git@897ee804ec04b22cc3332a78e1537e555b62455f#egg=nufftpy
+-e git+https://github.com/ryanpdwyer/sigutils.git@341513f403dee0b2c49e9630c86f0483c0d2d359#egg=sigutils
+-e git+https://github.com/ryanpdwyer/pmefm.git#egg=pmefm
+-e git+https://github.com/ryanpdwyer/pmefm.git#egg=lockin
