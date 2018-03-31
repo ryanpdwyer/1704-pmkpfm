@@ -1,0 +1,8 @@
+Image 2 is AFM file
+X= -70 to -20
+y=-67 to 23
+Scan in Y direction at 16 Hz
+DAC1 voltage = -0.5
+DAC2 Voltage = -0.6
+These voltages set the tilt correction coefficients for the
+X and Y voltage channels respectively.
